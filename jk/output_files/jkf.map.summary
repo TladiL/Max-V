@@ -1,0 +1,9 @@
+Analysis & Synthesis Status : Successful - Sun Oct 01 23:33:24 2023
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : jkf
+Top-level Entity Name : vendingMachine
+Family : MAX V
+Total logic elements : 11
+Total pins : 13
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

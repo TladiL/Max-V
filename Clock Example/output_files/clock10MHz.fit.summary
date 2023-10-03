@@ -1,0 +1,11 @@
+Fitter Status : Successful - Mon Oct 02 11:20:33 2023
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : clock10MHz
+Top-level Entity Name : task2B
+Family : MAX V
+Device : 5M570ZF256C5
+Timing Models : Final
+Total logic elements : 12 / 570 ( 2 % )
+Total pins : 16 / 159 ( 10 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

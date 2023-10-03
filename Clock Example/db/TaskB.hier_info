@@ -1,0 +1,34 @@
+|bcd2ssd
+Ya <= insFt5.DB_MAX_OUTPUT_PORT_TYPE
+A => inst6.IN0
+A => inst4.IN0
+A => inst2QAA.IN0
+A => inst6SA22.IN2
+C => in1st.IN1
+C => inst8.IN0
+C => inst3.IN1
+C => inst27.IN1
+C => YH.IN2
+C => inst2VF.IN1
+C => inst43.IN1
+C => inst23.IN0
+B => WW.IN1
+B => inst7.IN0
+B => inst14.IN1
+B => inst.IN1
+B => AWSD.IN1
+B => inst2KJ.IN1
+B => inst24.IN0
+D => WW.IN2
+D => inst9.IN0
+D => inst3.IN2
+D => inst13.IN1
+D => inst.IN3
+Yb <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+Yc <= inst15.DB_MAX_OUTPUT_PORT_TYPE
+Yd <= inst5D.DB_MAX_OUTPUT_PORT_TYPE
+Ye <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+Yf <= inst6SA.DB_MAX_OUTPUT_PORT_TYPE
+Yg <= inst6SA22.DB_MAX_OUTPUT_PORT_TYPE
+
+
